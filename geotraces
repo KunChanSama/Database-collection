@@ -1,0 +1,20 @@
+geotraces主页
+https://www.bodc.ac.uk/geotraces/
+	主要包含digital datasets (hydrographic and biogeochemical data)和航次信息，没有测序信息
+	已经下载，服务器位置为
+        /mnt/home-backup/xyfeng/database/geotraces/ctd_sensor_data/GEOTRACES_IDP2017_v1
+    内容主要分为三类
+		CTD Sensor Data
+		Discrete Sample Data
+		Aerosol and Rain Data
+	基于上述结果的可视化
+	http://www.egeotraces.org/
+    
+
+该项目的另一个主页
+http://www.geotraces.org/
+    首页记录了与之相关的研究成果
+	
+一款厉害的可视化软件
+	Ocean Data View software.
+	http://odv.awi.de/
